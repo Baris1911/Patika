@@ -1,4 +1,6 @@
-#Insertion-Sort 
+# Insertion-Sort 
+
+
 ## Proje 1
 
 ### 1. Soru 
@@ -15,9 +17,9 @@
 
 - a) **[7,3,5,8,2,9,4,15,6]** dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-##1.a) Insertion-Sort Aşamaları
+## 1.a) Insertion-Sort Aşamaları
 
-#####Aşama 1:
+##### Aşama 1:
 
  Verilen dizideki mevcut olan elemanlardan en küçük değer olan ''2'' belirlenir ve en baştaki değer ''22'' ile yer değiştirilir.
  |1.Adım|2|27|16|22|18|6|     
