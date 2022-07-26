@@ -1,5 +1,5 @@
 # Insertion-Sort 
-
+https://app.patika.dev/alibaris
 
 ## Proje 1
 
@@ -94,4 +94,3 @@ Dizi sıralandıktan sonra 18 sayısı ortada olacağından **Average Case** kap
 |4.Aşama|2 |3|4|5|7|9|8|15|6| 
 
  www.patika.dev
- 
