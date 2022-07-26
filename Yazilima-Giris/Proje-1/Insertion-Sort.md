@@ -92,3 +92,6 @@ Dizi sıralandıktan sonra 18 sayısı ortada olacağından **Average Case** kap
 |2.Aşama|2 |3|5|8|7|9|4|15|6|     
 |3.Aşama|2 |3|4|8|7|9|5|15|6| 
 |4.Aşama|2 |3|4|5|7|9|8|15|6| 
+
+ www.patika.dev
+ 
